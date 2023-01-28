@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\bin\Debug\net7.0\BOL.dll
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\IET\Desktop\LinqDBTNet\Database\DAL\obj\Debug\net7.0\ref\DAL.dll

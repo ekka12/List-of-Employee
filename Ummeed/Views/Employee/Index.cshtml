@@ -1,0 +1,32 @@
+@using BOL;
+@using System.Collections.Generic;
+
+@{
+       List<Employee> elist=ViewData["Employee"] as List<Employee>;
+}
+
+<html>
+    <meta>
+    <head></head>
+    <body>
+        <form action="/Employee/Index">
+          <div align="center"><h1>List Of Employee</h1><br/><br/>
+           <a href="/Employee/Insert">Add Employee</a><br/>
+            <table border="4">
+              <thead>
+                  <tr><th>SUBJECT NAME</th><th>HOD NAME</th><th>ACTION</th></tr>
+                  @{
+                    foreach(Employee e in elist){
+                     <tr><td>@e.SubName</td><td>@e.HOD</td><td>
+                     <a href="/Employee/Delete?hod=@e.HOD">Remove</a> / <a href="/Employee/Edit?hod=@e.HOD">Edit</a></td></tr>         
+                    @* @Html.ActionLink("Remove","Delete", new {hod=e.HOD})</td></tr> *@
+                    }
+                  }
+              </thead>
+
+            </table>
+                
+          </div>
+        </form>
+    </body>
+</html>
